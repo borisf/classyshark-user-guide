@@ -14,7 +14,12 @@ Once ClassyShark finishes reading the APK, you see the following APK breakdown (
 
 ![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/2%20Browse%20components)
 
-Click on the left tree and explore the elements and data on the right screen. 
+Click on the left tree and explore the elements and data on the right panel. 
+
+## Inspect package method counts (multidex)
+Click on methods count tab. On the right panel you see the packages pie-chart and packages contribution to classes.dex. Clicking on chart elements will bring the furth sub package methods break down.
+
+TODO stopped here
 
 
 ## Incremental Search
