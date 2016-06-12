@@ -9,6 +9,8 @@ can open and show other Android and Java binary files such as dex, class, jar an
 
 ![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/1%20Open%20File.png)
 
+## Browse components
+Once ClassyShark finishes reading the APK, you see the following APK breakdown (here I am using the Google IO app).
 
 
 ## Command line
