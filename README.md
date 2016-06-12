@@ -12,6 +12,16 @@ can open and show other Android and Java binary files such as dex, class, jar an
 ## Browse components
 Once ClassyShark finishes reading the APK, you see the following APK breakdown (here I am using the Google IO app).
 
+![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/2%20Browse%20components)
+
+Click on the left tree and explore the elements and data on the right screen. 
+
+
+## Incremental Search
+Note the incremental search bar on top, where you can search & filter classes by eithr writing the full name or camel search.
+
+The ==> arrow open the top most class while the <== arrow returns to the full classes name
+
 
 ## Command line
 
