@@ -1,5 +1,5 @@
 # Classyshark User Guide
-ClassyShark <link> is a handly Android and Java executable browser. This doc will guide you over the steps, how to use 
+ClassyShark <link> is a handy Android and Java executable browser. This doc will guide you over the steps, how to use 
 ClassyShark effectively.
 
 ## Open an archive
