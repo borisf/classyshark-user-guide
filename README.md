@@ -24,7 +24,9 @@ Click on methods count tab. On the right panel you see the packages pie-chart an
 ## Incremental Search
 Note the incremental search bar on top, where you can search & filter classes by eithr writing the full name or camel search.
 
-The ==> arrow open the top most class while the <== arrow returns to the full classes name
+The ==> arrow open the top most class while the <== arrow returns to the full classes name.
+
+![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/4%20Search)
 
 
 ## Command line
