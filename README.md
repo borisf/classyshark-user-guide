@@ -19,8 +19,7 @@ Click on the left tree and explore the elements and data on the right panel.
 ## Inspect package method counts (multidex)
 Click on methods count tab. On the right panel you see the packages pie-chart and packages contribution to classes.dex. Clicking on chart elements will bring the furth sub package methods break down.
 
-TODO stopped here
-
+![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/3%20Browse%20Method%20count)
 
 ## Incremental Search
 Note the incremental search bar on top, where you can search & filter classes by eithr writing the full name or camel search.
