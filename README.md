@@ -34,7 +34,7 @@ The ==> arrow open the top most class while the <== arrow returns to the full cl
 
 ## Related work
 
-* [Android Difest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
+* [Android Digest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
 * [App Diets are not a Fad](http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html)
 * [Tim Melor's multidex](https://github.com/tmelz/multidex_notes)
 * [Droidcon IT 2016 recap](http://jeroenmols.com/blog/2016/04/08/droidconit/)
