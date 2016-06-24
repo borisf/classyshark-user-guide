@@ -30,5 +30,22 @@ The ==> arrow open the top most class while the <== arrow returns to the full cl
 
 
 ## Command line
+* [Command line refernce](https://github.com/google/android-classyshark/blob/master/CommandLine.pdf)
 
 ## Related work
+
+* [Android Difest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
+* [App Diets are not a Fad](http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html)
+* [Tim Melor's multidex](https://github.com/tmelz/multidex_notes)
+* [Droidcon IT 2016 recap](http://jeroenmols.com/blog/2016/04/08/droidconit/)
+* [To infinity abd 65K](https://speakerdeck.com/dextor/to-65k-and-beyond)
+* [Smaller APKs with ClassyShark](http://blog.jimbaca.com/2016/04/04/smaller-apks-with-classy-shark/)
+* [Jianshu - Chinese](http://www.jianshu.com/p/8e8b88ea2197)
+* [Shrinking your build with no rules] (https://medium.com/@_tiwiz/shrinking-your-build-with-no-rules-8d9fb88281ac#.fiiqi3v3a)
+* [Native code browsing with ClassyShark](https://medium.com/@BorisFarber/classyshark-supports-native-code-browsing-a4985e7126b1#.kkw2lt4wz)
+* [Inspecting multidex APK with ClassyShark](https://medium.com/@BorisFarber/inspecting-your-apk-f53fb90136da#.d4os6nqdp)
+* [Intro to ClassyShark](https://medium.com/@BorisFarber/welcome-classyshark-b632ae8488b4#.4zcdc3kwd)
+
+
+
+
