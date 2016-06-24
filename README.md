@@ -30,7 +30,7 @@ The ==> arrow open the top most class while the <== arrow returns to the full cl
 
 
 ## Command line
-* [Command line refernce](https://github.com/google/android-classyshark/blob/master/CommandLine.pdf)
+* [Command line reference](https://github.com/google/android-classyshark/blob/master/CommandLine.pdf)
 
 ## Related work
 
