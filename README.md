@@ -29,6 +29,12 @@ The ==> arrow open the top most class while the <== arrow returns to the full cl
 ![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/4%20Search)
 
 
+## Scenarios
+1. Obfuscation
+2. Dependencies
+3. Dex Numbers
+4. Native Code 
+
 ## Command line
 * [Command line reference](https://github.com/google/android-classyshark/blob/master/CommandLine.pdf)
 
