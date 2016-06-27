@@ -45,10 +45,8 @@ You can activate the view by simply clicking on the *Methods count* tab on top o
 
 You can also use the arrows on top to navigate back and forth the history of the app!
 
-## Proguard mappings and secondary functionalities
-If you use **Proguard**, you can import your mappings from the file icon right next the search field and they will be automatically applied to the archive, removing the obfuscation layer provided by the optimization tool.
-
-Right next to it, you will find the *export* button, that will give you a report with all the relevant information about the archive and, on its side, you will find the *history* one, that will help you restoring previously loaded archives (they will persist upon application closing).
+## Export
+The *export* button, that will give you a report with all the relevant information about the archive and, on its side, you will find the *history* one, that will help you restoring previously loaded archives (they will persist upon application closing).
 
 ## Scenarios
 1. Obfuscation
