@@ -5,7 +5,7 @@
 
 ## About ClassyShark
 
-We developed this software because we needed something lighting fast and incredibly lightweight for browsing Android `APK`s, so that we could check right away if everything we wanted was right inside the final executable. And this is where the story begins - be sure to checkout the blogpost [Intro to ClassyShark](https://medium.com/@BorisFarber/welcome-classyshark-b632ae8488b4#.4zcdc3kwd) to understand the problem it solves. But you don't have to trust us, check the sources at the end of this page!
+We developed this software because we needed something lighting fast and incredibly lightweight for browsing Android `APK`s, so that we could check right away if everything we wanted was right inside the final executable. And this is where the story begins - be sure to checkout the blogpost [Intro to ClassyShark](https://medium.com/@BorisFarber/welcome-classyshark-b632ae8488b4#.4zcdc3kwd) to understand the problem it solves.
 
 ## Open an archive
 Before we can start browsing anything, we need to open it. And this is pretty straight forward: you can do it by clicking on the
