@@ -1,7 +1,6 @@
 # Classyshark User Guide
 
-## Disclaimer
-**ClassyShark** is under current and heavy development, so remember to check this page frequently.
+**ClassyShark** is under current and heavy development, so remember to check this page frequently :snowflake:.
 
 ## About ClassyShark
 
