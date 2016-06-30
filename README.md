@@ -32,6 +32,10 @@ In fact, by clicking twice on a type, **ClassyShark** will bring on the source f
 Raise your hand if you found yourself in the situation of counting the number of methods in your APK. We found ourselves in that critical situation while we tried to
 reduce the size of the project we were working on and that is why we built a method counter interface inside **ClassyShark**.
 
+See the method count, that your runtime sees
+
+![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/5%20ClassesDexData.png)
+
 You can activate the view by simply clicking on the *Methods count* tab on top of the navigation tree. In a blink of an eye, you will have a browsable chart of the methods used by everything in you APK, with the possibility of navigate even further by using the same mechanisms we saw in the previous paragraph.
 
 ![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/3%20Browse%20Method%20count)
