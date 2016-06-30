@@ -1,6 +1,6 @@
 # Classyshark User Guide
 
-**ClassyShark** is under current and heavy development, so remember to check this page frequently :snowflake:.
+[ClassyShark](https://github.com/google/android-classyshark) is under current and heavy development, so remember to check this page frequently :snowflake:.
 
 ## About ClassyShark
 
