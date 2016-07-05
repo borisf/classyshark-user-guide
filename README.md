@@ -62,6 +62,7 @@ The *export* button, that will give you a report with all the relevant informati
 ## Related work
 * [Android Digest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
 * [App Diets are not a Fad](http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html)
+* [ClassyShark verrät, was sich im APK versteckt - German](http://www.heise.de/developer/artikel/ClassyShark-verraet-was-sich-im-APK-versteckt-3217655.html)
 * [Tim Melor's multidex](https://github.com/tmelz/multidex_notes)
 * [Droidcon IT 2016 recap](http://jeroenmols.com/blog/2016/04/08/droidconit/)
 * [To infinity abd 65K](https://speakerdeck.com/dextor/to-65k-and-beyond)
