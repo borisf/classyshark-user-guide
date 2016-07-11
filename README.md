@@ -56,8 +56,8 @@ ClassyShark supports newly Nougat native code stability [restrictions](http://an
 1. Dynamic Symbol Errors
   1. Missing SONAME errors
   2. Text relocations in binary files
-2. Native libraries list
-3. Native dependencies list - these second order dependendeices are a life saver when one of your native dependenceis links with private librray
+2. Native Libraries - list of your apk native libraries
+3. Native Dependencies- these second order dependendeices are a life saver when one of your native libraries links with a private librray
 
 ## Export
 The *export* button, that will give you a report with all the relevant information about the archive and, on its side, you will find the *history* one, that will help you restoring previously loaded archives (they will persist upon application closing).
