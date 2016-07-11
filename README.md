@@ -47,6 +47,11 @@ You can activate the view by simply clicking on the *Methods count* tab on top o
 
 You can also use the arrows on top to navigate back and forth the history of the app!
 
+## Native Code
+
+![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/3%20Browse%20Method%20count)
+
+
 ## Export
 The *export* button, that will give you a report with all the relevant information about the archive and, on its side, you will find the *history* one, that will help you restoring previously loaded archives (they will persist upon application closing).
 
