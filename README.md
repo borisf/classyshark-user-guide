@@ -1,12 +1,10 @@
 # Classyshark User Guide
 
-## Disclaimer
-**ClassyShark** is under current and heavy development, so remember to check this page frequently
+[ClassyShark](https://github.com/google/android-classyshark) is under current and heavy development, so remember to check this page frequently :snowflake:.
 
 ## About ClassyShark
-We developed this software because we needed something lighting fast and incredibly lightweight for browsing Android `APK`s, so that we could
-check right away if everything we wanted was right inside the final executable. And this is where the story begins. But you don't have to trust
-us, check the sources at the end of this page!
+
+We developed this software because we needed something lighting fast and incredibly lightweight for browsing Android `APK`s, so that we could check right away if everything we wanted was right inside the final executable. And this is where the story begins - be sure to checkout the blogpost [Intro to ClassyShark](https://medium.com/@BorisFarber/welcome-classyshark-b632ae8488b4#.4zcdc3kwd) to understand the problem it solves.
 
 ## Open an archive
 Before we can start browsing anything, we need to open it. And this is pretty straight forward: you can do it by clicking on the
@@ -33,6 +31,10 @@ In fact, by clicking twice on a type, **ClassyShark** will bring on the source f
 Raise your hand if you found yourself in the situation of counting the number of methods in your APK. We found ourselves in that critical situation while we tried to
 reduce the size of the project we were working on and that is why we built a method counter interface inside **ClassyShark**.
 
+See the method count, that your runtime sees
+
+![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/5%20ClassesDexData.png)
+
 You can activate the view by simply clicking on the *Methods count* tab on top of the navigation tree. In a blink of an eye, you will have a browsable chart of the methods used by everything in you APK, with the possibility of navigate even further by using the same mechanisms we saw in the previous paragraph.
 
 ![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/3%20Browse%20Method%20count)
@@ -45,10 +47,20 @@ You can activate the view by simply clicking on the *Methods count* tab on top o
 
 You can also use the arrows on top to navigate back and forth the history of the app!
 
-## Proguard mappings and secondary functionalities
-If you use **Proguard**, you can import your mappings from the file icon right next the search field and they will be automatically applied to the archive, removing the obfuscation layer provided by the optimization tool.
+## Native Code
 
-Right next to it, you will find the *export* button, that will give you a report with all the relevant information about the archive and, on its side, you will find the *history* one, that will help you restoring previously loaded archives (they will persist upon application closing).
+![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/6%20Native%20Suggestions.png)
+
+ClassyShark supports newly Nougat native code stability [restrictions](http://android-developers.blogspot.co.uk/2016/06/improving-stability-with-private-cc.html). ClassyShark inspects and shows the following data:
+
+1. Dynamic Symbol Errors
+  1. Missing SONAME errors
+  2. Text relocations in binary files
+2. Native Libraries - list of your apk native libraries
+3. Native Dependencies- these second order dependendeices are a life saver when one of your native libraries links with a private librray
+
+## Export
+The *export* button, that will give you a report with all the relevant information about the archive and, on its side, you will find the *history* one, that will help you restoring previously loaded archives (they will persist upon application closing).
 
 ## Scenarios
 1. Obfuscation
@@ -62,6 +74,7 @@ Right next to it, you will find the *export* button, that will give you a report
 ## Related work
 * [Android Digest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
 * [App Diets are not a Fad](http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html)
+* [ClassyShark verrät, was sich im APK versteckt - German](http://www.heise.de/developer/artikel/ClassyShark-verraet-was-sich-im-APK-versteckt-3217655.html)
 * [Tim Melor's multidex](https://github.com/tmelz/multidex_notes)
 * [Droidcon IT 2016 recap](http://jeroenmols.com/blog/2016/04/08/droidconit/)
 * [To infinity abd 65K](https://speakerdeck.com/dextor/to-65k-and-beyond)
