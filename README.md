@@ -70,6 +70,7 @@ The *export* button, that will give you a report with all the relevant informati
 * [Command line reference](https://github.com/google/android-classyshark/blob/master/CommandLine.pdf)
 
 ## Related work
+* [Andorid Tools - Chinese](http://geek.csdn.net/news/detail/86457)
 * [Android Digest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
 * [App Diets are not a Fad](http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html)
 * [ClassyShark verrät, was sich im APK versteckt - German](http://www.heise.de/developer/artikel/ClassyShark-verraet-was-sich-im-APK-versteckt-3217655.html)
