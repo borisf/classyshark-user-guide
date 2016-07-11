@@ -48,16 +48,14 @@ You can activate the view by simply clicking on the *Methods count* tab on top o
 You can also use the arrows on top to navigate back and forth the history of the app!
 
 ## Native Code
+With the release of the new Android Nougat, new [code stability restrictions](http://android-developers.blogspot.co.uk/2016/06/improving-stability-with-private-cc.html) have been introduced, and **ClassyShark** is ready to welcome them!
 
 ![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/6%20Native%20Suggestions.png)
 
-ClassyShark supports newly Nougat native code stability [restrictions](http://android-developers.blogspot.co.uk/2016/06/improving-stability-with-private-cc.html). ClassyShark inspects and shows the following data:
+**ClassyShark** currently inspects the archive and shows this additional data:
 
-1. Dynamic Symbol Errors
-  1. Missing SONAME errors
-  2. Text relocations in binary files
-2. Native Libraries - list of your apk native libraries
-3. Native Dependencies- these second order dependendeices are a life saver when one of your native libraries links with a private librray
+- Dynamic Symbol Errors (*missing SONAME* errors and text relocations in binary files)
+- Native libraries and dependencies (list of the *.so* native libraries linked in your APK)
 
 ## Export
 The *export* button, that will give you a report with all the relevant information about the archive and, on its side, you will find the *history* one, that will help you restoring previously loaded archives (they will persist upon application closing).
