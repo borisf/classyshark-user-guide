@@ -76,7 +76,7 @@ The *export* button, that will give you a report with all the relevant informati
 * [ClassyShark verrät, was sich im APK versteckt - German](http://www.heise.de/developer/artikel/ClassyShark-verraet-was-sich-im-APK-versteckt-3217655.html)
 * [Tim Melor's multidex](https://github.com/tmelz/multidex_notes)
 * [Droidcon IT 2016 recap](http://jeroenmols.com/blog/2016/04/08/droidconit/)
-* [To infinity abd 65K](https://speakerdeck.com/dextor/to-65k-and-beyond)
+* [To infinity and 65K](https://speakerdeck.com/dextor/to-65k-and-beyond)
 * [Smaller APKs with ClassyShark](http://blog.jimbaca.com/2016/04/04/smaller-apks-with-classy-shark/)
 * [Jianshu - Chinese](http://www.jianshu.com/p/8e8b88ea2197)
 * [Shrinking your build with no rules](https://medium.com/@_tiwiz/shrinking-your-build-with-no-rules-8d9fb88281ac#.fiiqi3v3a)
