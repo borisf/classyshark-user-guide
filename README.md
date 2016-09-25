@@ -70,6 +70,7 @@ The *export* button, that will give you a report with all the relevant informati
 * [Command line reference](https://github.com/google/android-classyshark/blob/master/CommandLine.pdf)
 
 ## Related work
+* [Deaing with 65K method limit](http://bytes.schibsted.com/dealing-65k-methods-limit-android/?utm_source=Android+Weekly&utm_campaign=30733096d0-Android_Weekly_224&utm_medium=email&utm_term=0_4eb677ad19-30733096d0-337257757)
 * [Andorid Tools - Chinese](http://geek.csdn.net/news/detail/86457)
 * [Android Digest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
 * [App Diets are not a Fad](http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html)
