@@ -41,7 +41,7 @@ You can activate the view by simply clicking on the *Methods count* tab on top o
 
 ## Incremental Search
 *Why do I have to click all the navigation to my class?* Well, you **do not have to**!
-**ClassyShark** ships with a handy search field, that you can use to filter the classes by writing a matching query, that will be automagically applied to the content of the archive.
+**ClassyShark** ships with a handy search field, that you can use to filter the classes by writing a matching query, that will be automagically applied to the content of the archive and the AndroidManifest.
 
 ![alt text](https://github.com/borisf/classyshark-user-guide/blob/master/images/4%20Search)
 
