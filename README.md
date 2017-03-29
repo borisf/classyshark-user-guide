@@ -71,8 +71,8 @@ The *export* button, that will give you a report with all the relevant informati
 
 ## Learn more
 * [APK Dashboard in ClassyShark](https://medium.com/@BorisFarber/apk-dashboard-in-classyshark-9346318bf5c6#.tv22uvr6n)
-* [Deaing with 65K method limit](http://bytes.schibsted.com/dealing-65k-methods-limit-android/?utm_source=Android+Weekly&utm_campaign=30733096d0-Android_Weekly_224&utm_medium=email&utm_term=0_4eb677ad19-30733096d0-337257757)
-* [Andorid Tools - Chinese](http://geek.csdn.net/news/detail/86457)
+* [Dealing with 65K method limit](http://bytes.schibsted.com/dealing-65k-methods-limit-android/?utm_source=Android+Weekly&utm_campaign=30733096d0-Android_Weekly_224&utm_medium=email&utm_term=0_4eb677ad19-30733096d0-337257757)
+* [Android Tools - Chinese](http://geek.csdn.net/news/detail/86457)
 * [Android Digest 17 - Russian](https://dou.ua/lenta/digests/android-digest-17/)
 * [App Diets are not a Fad](http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html)
 * [ClassyShark verrät, was sich im APK versteckt - German](http://www.heise.de/developer/artikel/ClassyShark-verraet-was-sich-im-APK-versteckt-3217655.html)
