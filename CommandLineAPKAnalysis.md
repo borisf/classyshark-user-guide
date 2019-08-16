@@ -14,11 +14,11 @@ This doc explains how to analyse an APK with ClassyShark using command line only
 
 Or the script steps
 * // Install fzf - incremental filter
-$ wget https://github.com/junegunn/fzf-bin/releases/download/0.17.5/fzf-0.17.5-linux_amd64.tgz
-*tar xvzf fzf-0.17.5-linux_amd64.tgz
-*chmod 777 ./fzf
-*// Install ClassyShark
-$ wget https://github.com/google/android-classyshark/releases/download/8.2/ClassyShark.jar
+* $ wget https://github.com/junegunn/fzf-bin/releases/download/0.17.5/fzf-0.17.5-linux_amd64.tgz
+* tar xvzf fzf-0.17.5-linux_amd64.tgz
+* chmod 777 ./fzf
+* // Install ClassyShark
+* $ wget https://github.com/google/android-classyshark/releases/download/8.2/ClassyShark.jar
 
 ## Get the APK
 * Call ClassyShark export with the APK
